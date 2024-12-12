@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Take Action: Justice for Cartersville High School</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+margin: 20px;
+padding: 10px;
+background-color: #f9f9f9;
+}
+h1, h2 {
+color: #333;
+}
+a {
+color: #007BFF;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+.cta {
+background-color: #007BFF;
+color: white;
+padding: 10px 20px;
+text-align: center;
+display: inline-block;
+margin: 20px 0;
+border-radius: 5px;
+font-size: 16px;
+}
+.cta:hover {
+background-color: #0056b3;
+}
+.section {
+margin-bottom: 30px;
+padding: 20px;
+background: white;
+border-radius: 8px;
+box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+</style>
+</head>
+<body>
+<h1>Take Action: Justice for Cartersville High School</h1>
+<p>On [Insert Date], Black cheerleaders at Cartersville High School were targeted with hateful actions, including defaced uniforms and racist graffiti. Despite clear evidence, the administration has failed to act. Join us in demanding accountability and systemic change.</p>
+
+<div class="section">
+<h2>Email School Officials</h2>
+<p>Make your voice heard by sending a pre-written email to school officials:</p>
+<ul>
+<li><a href="mailto:stierce@cartersvilleschools.org?subject=Demand Action Against Hate Crimes&body=Dear Principal Tierce,%0A%0AI am writing to demand immediate action regarding the hate crimes targeting Black students at Cartersville High School.%0A%0AThis inaction undermines student safety and equity.%0A%0AThank you,%0A[Your Name]">Email Principal Shelley Tierce</a></li>
+<li><a href="mailto:mgambill@cartersvilleschools.org?subject=Demand Action Against Hate Crimes&body=Dear Assistant Principal Gambill,%0A%0AI am writing to demand immediate action regarding the hate crimes targeting Black students at Cartersville High School.%0A%0AThis inaction undermines student safety and equity.%0A%0AThank you,%0A[Your Name]">Email Assistant Principal Michelle Gambill</a></li>
+<li><a href="mailto:mfeuerbach@cartersvilleschools.org?subject=Demand Action Against Hate Crimes&body=Dear Superintendent Feuerbach,%0A%0AI am writing to demand immediate action regarding the hate crimes targeting Black students at Cartersville High School.%0A%0AThis inaction undermines student safety and equity.%0A%0AThank you,%0A[Your Name]">Email Superintendent Dr. Marc Feuerbach</a></li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Sign the Petition</h2>
+<p>Demand accountability and systemic change by signing our petition:</p>
+<a class="cta" href="[Insert Petition Link Here]" target="_blank">Sign the Petition</a>
+</div>
+
+<div class="section">
+<h2>Join the Movement</h2>
+<p>Follow us on social media and share this page to amplify our message:</p>
+<ul>
+<li><a href="[Insert Instagram Link Here]" target="_blank">Instagram</a></li>
+<li><a href="[Insert Twitter Link Here]" target="_blank">Twitter</a></li>
+<li><a href="[Insert Facebook Link Here]" target="_blank">Facebook</a></li>
+</ul>
+</div>
+</body>
+</html>
